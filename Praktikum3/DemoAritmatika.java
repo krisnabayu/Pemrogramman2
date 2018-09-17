@@ -33,7 +33,7 @@ public class DemoAritmatika{
         //menghitung hasil modulus dri pembagian
         System.out.println("Compliting the remainder...");
         System.out.println(" i % j = " + (i%j));
-        System.out.println(" x & y = " + (x&y));
+        System.out.println(" x % y = " + (x%y));
 
         //tipe pengabungan
         System.out.println("Mixing tipes...");
