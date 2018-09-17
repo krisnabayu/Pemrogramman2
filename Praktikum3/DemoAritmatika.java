@@ -17,8 +17,8 @@ public class DemoAritmatika{
 
         //pengurangan angka
         System.out.println("Substracting...");
-        System.out.println(" i - j = " + (i*j));
-        System.out.println(" x - y = " + (x*y));
+        System.out.println(" i - j = " + (i-j));
+        System.out.println(" x - y = " + (x-y));
 
         //perkalian angka
         System.out.println("Multiplying...");
@@ -32,13 +32,13 @@ public class DemoAritmatika{
 
         //menghitung hasil modulus dri pembagian
         System.out.println("Compliting the remainder...");
-        System.out.println(" i % j = " + (i&j));
-        System.out.println(" x & y = " + (x%y));
+        System.out.println(" i % j = " + (i%j));
+        System.out.println(" x & y = " + (x&y));
 
         //tipe pengabungan
         System.out.println("Mixing tipes...");
         System.out.println(" j + y = " + (j+y));
-        System.out.println(" i + x = " + (i*x));
+        System.out.println(" i * x = " + (i*x));
 
     }
 }
